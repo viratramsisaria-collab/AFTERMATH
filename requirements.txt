@@ -1,0 +1,17 @@
+streamlit
+langgraph
+langchain-core
+langchain-google-genai
+langchain-groq
+google-genai
+groq
+pydantic
+pydantic-settings
+python-dotenv
+sqlalchemy
+plotly
+pydeck
+pandas
+numpy
+httpx
+pytest
