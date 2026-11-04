@@ -3,6 +3,7 @@ langgraph
 langchain-core
 langchain-google-genai
 langchain-groq
+langchain-openai
 google-genai
 groq
 pydantic
@@ -15,3 +16,4 @@ pandas
 numpy
 httpx
 pytest
+trimesh[easy]

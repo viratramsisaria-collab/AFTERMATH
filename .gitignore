@@ -8,3 +8,5 @@ logs/
 exports/
 .pytest_cache/
 .streamlit/secrets.toml
+/pytest_cache/
+.streamlit/
